@@ -1,6 +1,7 @@
 # Object Oriented Javascript 
 
 ## Student Instructions
+In order to make sure, that you are able to load the data from the included .json file you have to start a webserver. When you use VisualStudio Code you can easily run the app by running index.html file with LiveServer.
 
 ### Big Picture
 
